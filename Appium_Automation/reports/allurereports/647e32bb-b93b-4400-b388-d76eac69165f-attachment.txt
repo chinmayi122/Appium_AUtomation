@@ -1,0 +1,5 @@
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:868 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B97682DA90>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:868 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B976831F90>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[32mINFO    [0m BasePage:BasePage.py:99 Send a text with locator typexpathwith locator value//android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+[32mINFO    [0m BasePage:BasePage.py:102 Unable to send the text with locator typexpathwith locator value//android.widget.EditText

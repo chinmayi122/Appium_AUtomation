@@ -1,0 +1,13 @@
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:868 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001479C75DA90>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:868 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001479C761A90>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+[32mINFO    [0m BasePage:BasePage.py:99 Send a text with locator typexpathwith locator value//android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+[32mINFO    [0m BasePage:BasePage.py:99 Send a text with locator typexpathwith locator value//android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+[32mINFO    [0m BasePage:BasePage.py:89 Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+[32mINFO    [0m BasePage:BasePage.py:89 Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+[32mINFO    [0m BasePage:BasePage.py:89 Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+[32mINFO    [0m BasePage:BasePage.py:102 Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]

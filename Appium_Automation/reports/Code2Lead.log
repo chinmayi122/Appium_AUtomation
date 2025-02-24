@@ -1,0 +1,621 @@
+
+180225 11:2340 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+180225 11:2409 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+180225 11:2439 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+180225 11:2508 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+180225 11:2538 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+180225 11:2603 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+180225 11:2603 AM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+180225 11:2603 AM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[4]
+180225 11:2629 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+180225 11:2655 AM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+180225 01:5256 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 01:5257 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+180225 01:5301 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 01:5306 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+180225 04:0221 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:0222 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+180225 04:0226 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:0231 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+180225 04:1530 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:1532 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+180225 04:1536 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:1606 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+180225 04:1710 PM Tuesday-BasePage- INFO : Unable to send the text with locator typeidwith locator value//android.widget.EditText
+180225 04:1712 PM Tuesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+180225 04:1716 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:1745 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+180225 04:2238 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+180225 04:2307 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+180225 04:2337 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+180225 04:2406 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+180225 04:2435 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+180225 04:2500 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+180225 04:2500 PM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+180225 04:2500 PM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[4]
+180225 04:2526 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+180225 04:2551 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+180225 04:3431 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:3432 PM Tuesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+180225 04:4341 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+180225 04:4411 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+180225 04:4440 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+180225 04:4510 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+180225 04:4539 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+180225 04:4605 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+180225 04:4605 PM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+180225 04:4605 PM Tuesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[4]
+180225 04:4631 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+180225 04:4656 PM Tuesday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+190225 10:2845 AM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 10:2848 AM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 10:2849 AM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.EditText
+190225 10:2849 AM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 10:2915 AM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 10:2915 AM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 10:2916 AM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 03:0349 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 03:0351 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 03:0351 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 03:0353 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 03:0419 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.EditText
+190225 04:2112 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:2142 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:2208 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:2233 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:2259 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:2325 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+190225 04:2325 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+190225 04:2429 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:2431 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:2431 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:2456 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:2532 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:2537 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:2541 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:2546 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:2549 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:2553 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:2554 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:2620 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:2646 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:2711 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+190225 04:2711 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+190225 04:3852 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:3857 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:3901 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:3905 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:3908 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:3912 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:3917 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:3946 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:4015 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:4102 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:4106 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:4111 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:4115 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:4117 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:4122 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:4127 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:4156 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:4226 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:4252 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:4252 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+190225 04:4319 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:4324 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:4328 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:4333 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:4335 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:4340 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:4345 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:4414 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:4443 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:4501 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@text='Event Manager']/../android.view.View)[3]
+190225 04:4501 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+190225 04:5556 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:5600 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+190225 04:5604 PM Wednesday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+190225 04:5609 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+190225 04:5611 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+190225 04:5616 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+190225 04:5621 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+190225 04:5626 PM Wednesday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+190225 04:5655 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.widget.Button[@content-desc='Cancel']/..//android.widget.Button)[26]
+190225 04:5721 PM Wednesday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+190225 04:5721 PM Wednesday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+200225 12:2941 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:2945 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+200225 12:2949 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:2954 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+200225 12:2955 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+200225 12:3000 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+200225 12:3005 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+200225 12:3010 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+200225 12:3014 PM Thursday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+200225 12:3037 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+200225 12:3038 PM Thursday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+200225 12:4106 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:4111 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+200225 12:4115 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:4122 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+200225 12:4148 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+200225 12:4217 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+200225 12:4247 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+200225 12:4317 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+200225 12:4321 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+200225 12:4321 PM Thursday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+200225 12:4346 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+200225 12:4346 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[1]
+200225 12:4412 PM Thursday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText)[4]
+200225 12:5209 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5230 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5235 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+200225 12:5239 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5244 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+200225 12:5246 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+200225 12:5250 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+200225 12:5255 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+200225 12:5300 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+200225 12:5305 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+200225 12:5305 PM Thursday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+200225 12:5306 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+200225 12:5306 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[1]
+200225 12:5306 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[4]
+200225 12:5306 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+200225 12:5332 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+200225 12:5526 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5546 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5551 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+200225 12:5555 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+200225 12:5600 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+200225 12:5602 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+200225 12:5607 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+200225 12:5611 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+200225 12:5616 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+200225 12:5621 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+200225 12:5621 PM Thursday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+200225 12:5622 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+200225 12:5624 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[1]
+200225 12:5626 PM Thursday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[4]
+200225 12:5627 PM Thursday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+200225 12:5652 PM Thursday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+210225 12:3304 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.EditText
+210225 12:3502 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:4819 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:5631 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:5634 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 12:5635 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:5638 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 12:5641 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+210225 12:5644 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+210225 12:5923 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:5925 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 12:5925 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 12:5927 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 12:5928 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 12:5928 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 12:5930 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 12:5931 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 12:5932 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+210225 12:5932 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 12:5957 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 01:0022 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText)[1]
+210225 01:0222 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 01:0224 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 01:0224 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 01:0226 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 01:0227 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 01:0227 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 01:0229 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 01:0230 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 01:0230 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+210225 01:0230 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 01:0255 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 01:0321 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText)[1]
+210225 03:4353 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 03:4356 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 03:4356 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 03:4358 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 03:4359 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 03:4359 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 03:4401 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 03:4402 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 03:4402 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+210225 03:4402 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 03:4428 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 03:4453 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText)[1]
+210225 03:5851 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 03:5853 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 03:5854 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 03:5856 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 03:5856 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 03:5857 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 03:5858 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 03:5859 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 03:5859 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View)[last()-3]
+210225 03:5859 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 04:0358 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:0400 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 04:0400 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:0403 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 04:0403 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 04:0404 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 04:0405 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 04:0406 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 04:0407 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 04:0407 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 04:5321 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:5326 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 04:5326 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:5328 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 04:5329 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 04:5329 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 04:5331 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 04:5332 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 04:5333 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 04:5333 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 04:5333 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 04:5334 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[1]
+210225 04:5334 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value(//android.widget.EditText)[4]
+210225 04:5335 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+210225 04:5408 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+210225 04:5735 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:5737 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 04:5737 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 04:5739 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 04:5740 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 04:5741 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 04:5741 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 04:5742 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 04:5743 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 04:5743 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 04:5744 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 04:5744 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 04:5744 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 04:5745 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+210225 04:5818 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+210225 05:0428 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:0430 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:0430 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:0432 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:0433 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:0434 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:0434 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:0435 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:0435 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:0435 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:0437 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:0440 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:0443 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 05:0447 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create Wedding']
+210225 05:0520 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value((//android.view.View)[7]/..//android.widget.ImageView)[last()]
+210225 05:1001 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1004 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:1004 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1006 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:1006 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:1007 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:1008 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:1009 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:1010 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:1010 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:1011 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:1014 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:1535 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1537 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:1537 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1539 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:1540 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:1541 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:1541 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:1542 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:1543 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:1543 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:1544 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:1547 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:1623 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:1952 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1954 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:1954 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:1956 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:1957 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:1958 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:1958 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:1959 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:1959 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:1959 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:2001 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:2004 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:2041 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:2337 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:2339 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:2339 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:2341 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:2342 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:2343 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:2344 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:2345 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:2345 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:2345 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:2346 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:2349 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:2352 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 05:2937 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:2938 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:2939 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:2941 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:2942 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:2943 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:2944 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:2945 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:2945 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:2945 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:2946 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:2950 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:2953 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 05:3124 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:3125 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:3127 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:3129 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:3129 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:3130 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:3131 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:3132 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:3132 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:3132 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:3134 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:3137 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:3140 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 05:3143 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 05:3505 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:3507 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:3507 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:3509 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:3510 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+210225 05:3511 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+210225 05:4035 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:4038 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:4038 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:4040 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:4041 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+210225 05:4042 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+210225 05:4823 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:4826 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:4826 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:4828 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:4829 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:4829 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:4830 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:4831 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:4832 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:4832 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:4833 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:4836 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 05:4839 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 05:5135 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:5138 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:5138 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:5140 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:5141 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:5142 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:5142 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:5143 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:5144 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:5144 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:5145 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:5148 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 05:5847 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:5851 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 05:5851 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 05:5853 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 05:5853 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 05:5854 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 05:5855 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 05:5856 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 05:5856 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 05:5856 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 05:5858 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 05:5901 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:0055 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0057 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:0059 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0100 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:0102 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:0102 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:0103 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:0104 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:0105 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:0105 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:0105 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:0108 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:0211 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0215 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:0215 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0217 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:0217 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:0218 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:0219 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:0220 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:0220 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:0220 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:0221 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:0226 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:0229 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator valuenew UiSelector().className('android.widget.EditText').instance(0)
+210225 06:0232 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:0721 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0725 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:0725 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:0727 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:0753 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:0819 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:0845 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:0910 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:0936 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:0936 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:1002 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:1031 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:1034 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:1103 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:3702 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3704 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:3705 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3706 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:3732 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:3758 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:3759 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:3825 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:3832 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:3832 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:3832 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:3835 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:3838 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:3844 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3856 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:3857 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3924 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3926 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:3927 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value//android.widget.EditText
+210225 06:3929 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:3950 PM Friday-BasePage- INFO : Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4014 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4017 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4019 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4020 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4022 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4022 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4024 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4025 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4026 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4026 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4026 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4030 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4033 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4211 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4214 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4216 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4218 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4221 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4222 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4223 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4224 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4224 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4224 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4225 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4228 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4231 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4232 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4352 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4355 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4357 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4359 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4402 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4402 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4404 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4405 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4405 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4405 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4406 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4409 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4412 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4413 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4523 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4526 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4528 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4530 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4533 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4533 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4535 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4536 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4536 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4536 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4537 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4540 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4543 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4544 PM Friday-BasePage- INFO : Unable to send the text with locator typeindexwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4547 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:4809 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4812 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4814 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4817 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4819 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4820 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4821 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4822 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4823 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4823 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4824 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4828 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4833 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4837 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:4913 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4916 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:4918 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:4920 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:4923 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:4924 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:4924 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:4925 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:4926 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:4926 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:4927 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:4930 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[1]
+210225 06:4935 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:4939 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:5043 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5045 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:5047 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5049 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:5052 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:5053 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:5054 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:5055 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:5055 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:5055 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:5056 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:5059 PM Friday-BasePage- INFO : Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]
+210225 06:5103 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:5316 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5318 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:5321 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5323 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:5326 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:5327 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:5327 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:5328 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:5329 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:5329 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:5330 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:5333 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[3]
+210225 06:5336 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+210225 06:5418 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5421 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 06:5423 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 06:5425 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 06:5428 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 06:5429 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 06:5429 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 06:5430 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 06:5431 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 06:5431 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 06:5432 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 06:5435 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[3]
+210225 06:5438 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[3]
+210225 07:0050 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 07:0053 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+210225 07:0055 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+210225 07:0057 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+210225 07:0100 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Create New Wedding']
+210225 07:0100 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
+210225 07:0101 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.RadioButton[@content-desc='Event Manager']
+210225 07:0102 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Done']
+210225 07:0103 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[3]
+210225 07:0103 PM Friday-BasePage- INFO : Cannot click on the element withindexwith locator valuenew UiSelector().className('android.view.View').instance(39)
+210225 07:0104 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='OK']
+210225 07:0107 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[3]
+210225 07:0110 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.FrameLayout[@resource-id='android:id/content']/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.EditText[4]
+240225 11:1301 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+240225 11:1305 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+240225 11:1305 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+240225 11:1307 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+240225 11:1308 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+240225 11:1309 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']

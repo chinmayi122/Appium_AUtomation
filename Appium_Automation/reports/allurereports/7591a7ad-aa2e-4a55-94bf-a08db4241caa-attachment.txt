@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:99 Send a text with locator typexpathwith locator value//android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:89 Cannot click on the element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+[32mINFO    [0m BasePage:BasePage.py:99 Send a text with locator typexpathwith locator value//android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:86 Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']

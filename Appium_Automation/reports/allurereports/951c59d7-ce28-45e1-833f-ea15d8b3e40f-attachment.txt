@@ -1,0 +1,1 @@
+[32mINFO    [0m BasePage:BasePage.py:102 Unable to send the text with locator typexpathwith locator value(//android.widget.EditText[text,('Bride's Name')])[1]

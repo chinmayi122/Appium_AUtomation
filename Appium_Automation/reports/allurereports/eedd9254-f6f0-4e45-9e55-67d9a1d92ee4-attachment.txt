@@ -1,0 +1,1 @@
+[32mINFO    [0m BasePage:BasePage.py:89 Cannot click on the element withxpathwith locator value(//android.view.View[@content-desc='Create a new Wedding']/following-sibling::android.view.View)[1]
