@@ -11,7 +11,7 @@ class LoginPage(BasePage):
         self.driver=driver
 
 
-    #Locator Values in Login and sign up Page
+    #Locator Values in Login and sign up Pages
 
     _enterPhoneNumer="//android.widget.EditText"  #xapth
     _continueButton="//android.widget.Button[@content-desc='Continue']"
